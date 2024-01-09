@@ -11,7 +11,9 @@
 
 Go to https://suitsmemorygame.netlify.app
 
-Or for local use/editing
+Or 
+
+For local use/editing
 
 1. Download zip file
 2. Open zip file
